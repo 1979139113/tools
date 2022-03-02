@@ -1,0 +1,4 @@
+geoip2
+bs4
+requests
+termcolor
